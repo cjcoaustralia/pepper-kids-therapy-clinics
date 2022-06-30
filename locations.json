@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [152.9817704,
+                    -27.3159711
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "clinic",
+                "logo": "red",
+                "description": "Pepper Kids Therapy",
+                "address": "4/249 Leitchs Road, Brendale 4500 behind the Good Price Pharmacy Warehouse.",
+                "name": "Brendale",
+                "phone": "07 3062 9292",
+                "email": "brendale@pepperkidstherapy.com.au",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.0953012,
+                    -27.5768568
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "clinic",
+                "logo": "blue",
+                "description": "Pepper Kids Therapy",
+                "address": "35 Miles Platting Road, Eight Mile Plains 4113",
+                "name": "Eight Miles Plains",
+                "phone": "07 3062 9292",
+                "email": "emp@pepperkidstherapy.com.au",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.1740339,
+                    -27.6621077
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "clinic",
+                "logo": "yellow",
+                "description": "Pepper Kids Therapy",
+                "address": "36 Bryants Road, Near Hyperdome Shailer Park 4128",
+                "name": "Logan Hyperdome",
+                "phone": "07 3062 9292",
+                "email": "logan@pepperkidstherapy.com.au",
+                "storeid": "03"
+            }
+        }
+    ]
+}
