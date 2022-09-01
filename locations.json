@@ -57,6 +57,26 @@
                 "email": "logan@pepperkidstherapy.com.au",
                 "storeid": "03"
             }
+        },
+         {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.2967221,
+                    -27.8701296
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "clinic",
+                "logo": "green",
+                "description": "Pepper Kids Therapy",
+                "address": "1 Brygon Creek Drive, 4209, Upper Coomera",
+                "name": "Coomera (Opening Soon)",
+                "phone": "1300 755 246",
+                "email": "appointments@pepperkidstherapy.com.au",
+                "storeid": "04"
+            }
         }
     ]
 }
